@@ -1,1 +1,3 @@
-# 2026-05-KIT-COC-ST-167
+Title: A substation defect recognition framework based on spatiotemporal alignment and feature memory
+
+DOMAIN: Substation,Artificial Intelligience,spatiotemperal Alignment
